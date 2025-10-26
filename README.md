@@ -25,7 +25,7 @@ To run this project locally, simply follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/simple-quiz-app.git](https://github.com/your-username/simple-quiz-app.git)
+    git clone [https://github.com/your-username/simple-quiz-app.git](https://github.com/forkanaminshaon/simple-quiz-app.git)
     ```
     *(Replace `your-username` with your GitHub username)*
 
